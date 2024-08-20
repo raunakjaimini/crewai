@@ -15,5 +15,5 @@ crew = Crew(
 )
 
 ## start the task execution process with enhanced feedback
-result=crew.kickoff(inputs={'topic':'How to create aws lambda using docker image from AWS ECR'})
+result=crew.kickoff(inputs={'topic':'Live Crash Course On Graph Database With Langchain'})
 print(result)
